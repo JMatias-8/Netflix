@@ -1,2 +1,2 @@
 # Netflix
-Páginas inicial e de login inpiradas na netflix.
+Páginas inicial e de login inspiradas na netflix.
